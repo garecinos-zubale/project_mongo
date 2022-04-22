@@ -1,90 +1,88 @@
 const { MongoClient } = require('mongodb');
-const fs = require('fs-extra');
-const createCsvWriter = require('csv-writer').createObjectCsvWriter;
+var axios = require('axios');
 
-async function getBulkBatching(client) {
+async function fixAmount(client) {
   const cursor = await client
-    .db('quest') // stag
-    // .db('heroku_31637x89') //prod
+    .db('heroku_31637x89')
     .collection('quests')
-    .aggregate([
-      {
-        $match: {
-          'brand._id': 415,
-          status: 'OPEN',
-          'batching.batchId': { $exists: true },
-          'pickingAndDelivery.deliveryWindowStartTime': {
-            $gt: new Date('2022-03-01 06:00:00'),
-          },
-        },
+    .find({
+      rewardAmount: { $type: 'double' },
+      createdAt: {
+        $gte: new Date('20122-04-22T02:00:00.000Z'),
       },
-      {
-        $project: {
-          _id: 1,
-          batching: 1,
-          'brand._id': 1,
-          'store.storeNumber': 1,
-          'pickingAndDelivery.externalOrderId': 1,
-          rewardAmount: 1,
-          'pickingAndDelivery.customerInfo': 1,
-        },
-      },
-      {
-        $sort: { createdAt: -1 },
-      },
-    ]);
+    })
+    .limit(61);
 
   const results = await cursor.toArray();
-  const rows = []
-  results.forEach(quest => {
-      row = {
-        brandId: quest.brand._id,
-        storeNumber: quest.store.storeNumber,
-        externalOrderId: quest.pickingAndDelivery.externalOrderId,
-        batchingId: quest.batching.batchId,
-        rewardAmount: quest.rewardAmount,
-        clientName: quest.pickingAndDelivery.customerInfo.name,
-        clientPhone: quest.pickingAndDelivery.customerInfo.phoneNumber,
-        clientAdress: quest.pickingAndDelivery.customerInfo.address,
-      }
-      rows.push(row)
+  results.forEach(async (quest) => {
+    platform = { 120: 'walmart', 182: 'chedraui', 412: 'wong-peru' };
+
+    var data = JSON.stringify({
+      quest: {
+        platform: platform[quest.brand._id],
+        storeId: quest.store._id,
+        splitType: quest.deliveryType,
+        splitSplittedFlow: quest.pickingAndDelivery.splittedFlow,
+        deliveryType: quest.pickingAndDelivery.deliveryType,
+        distance: quest.deliveryDistance,
+        lines: quest.pickingAndDelivery.orderInfo.totalLineItems,
+      },
+    });
+
+    var config = {
+      method: 'post',
+      url: 'http://localhost:8089/RewardAmount',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      data: data,
+    };
+
+    try {
+      const response = await axios(config);
+      // console.log(JSON.stringify(response.data));
+      console.log(
+        `Quest id ${JSON.stringify(quest._id)} status ${JSON.stringify(
+          quest.status
+        )} reward ${JSON.stringify(quest.rewardAmount)} new reward ${
+          response.data.reward
+        }`
+      );
+
+      updated = await client
+        .db('heroku_31637x89')
+        .collection('quests')
+        .updateOne(
+          { _id: quest._id },
+          {
+            $set: {
+              rewardAmount: response.data.reward,
+            },
+          }
+        );
+    } catch (error) {
+      console.error(error);
+    }
   });
-
-  console.log(JSON.stringify(rows))
-
-  const csvWriter = createCsvWriter({
-    path: 'bulkBtahcing.csv',
-    header: [
-      { id: 'brandId', title: 'brandId' },
-      { id: 'storeNumber', title: 'storeNumber' },
-      { id: 'externalOrderId', title: 'externalOrderId' },
-      { id: 'batchingId', title: 'batchingId' },
-      { id: 'rewardAmount', title: 'rewardAmount' },
-      { id: 'clientName', title: 'clientName' },
-      { id: 'clientPhone', title: 'clientPhone' },
-      { id: 'clientAdress', title: 'clientAdress' },
-    ],
-  });
-
-  csvWriter
-    .writeRecords(rows)
-    .then(() => console.log('The CSV file was written successfully'));
 }
 
 async function main() {
   const uri =
     // Stag
-    'mongodb://quest:0b1a479e0685a42f68d7d7182a101e62@35.184.128.184:27017/quest?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=false';
-  // Prod
-  // 'mongodb://quest:jbnkRj8cqpXUceUU@quest-shard-00-00.wuurm.mongodb.net:27017,quest-shard-00-01.wuurm.mongodb.net:27017,quest-shard-00-02.wuurm.mongodb.net:27017/heroku_31637x89?authSource=admin&replicaSet=atlas-10x1kr-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true';
-  const client = new MongoClient(uri);
+    // 'mongodb://quest:0b1a479e0685a42f68d7d7182a101e62@35.184.128.184:27017/quest?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=false';
+    // Prod
+    'mongodb://quest:..';
+  const client = new MongoClient(uri, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  });
   try {
     await client.connect();
-    await getBulkBatching(client);
+    await fixAmount(client);
   } catch (error) {
     console.error(error);
   } finally {
-    await client.close();
+    // await client.close();
   }
 }
 
