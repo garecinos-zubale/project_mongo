@@ -1,0 +1,4563 @@
+/* 1 */
+{
+    "_id" : ObjectId("62673ec0968bb800018ffb4f"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH78203172757A706C,62673ec0968bb800018ffb4f",
+        "batchIndex" : 0,
+        "batchSize" : 1,
+        "totalDeliveryDistance" : 4.66,
+        "totalRewardAmount" : 8388.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T00:37:20.375Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-27T05:00:00.000Z"),
+        "startDate" : ISODate("2022-04-26T05:00:00.000Z")
+    },
+    "deliveryDistance" : 4.66,
+    "description" : "JMB-v566763-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v566763-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v566763-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 1 Numero 32 a 29 , Puente Aranda - SANTA MATILDE, Bogotá, D.C., 11001, COL",
+            "name" : "Milena Bermudez",
+            "phoneNumber" : "+573202102139"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T00:37:20.375Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-26T20:00:00.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-26T17:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.60041586389552,
+            "longitude" : -74.1085042376076
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v566763-01",
+        "externalOrderId" : "JMB-v566763-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 500130,
+            "totalLineItems" : 17,
+            "totalQuantity" : 25,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 902265
+    },
+    "rewardAmount" : "8388",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T15:14:43.603Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "inProgressStatus" : "PICKING_STARTED",
+    "splittedFlow" : true
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("6266e511d26fe50001b513b4"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH79726124747A706C,6266e511d26fe50001b513b4",
+        "batchIndex" : 0,
+        "batchSize" : 1,
+        "totalDeliveryDistance" : 5.383,
+        "totalRewardAmount" : 8000.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-25T18:14:41.066Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-27T11:00:00.000Z"),
+        "startDate" : ISODate("2022-04-26T11:00:00.000Z")
+    },
+    "deliveryDistance" : 5.383,
+    "description" : "JMB-v565148-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v565148-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v565148-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Av de las américas # 67 24, Puente Aranda - SALAZAR GOMEZ, Bogotá, D.C., 11001, COL",
+            "name" : "Sebastian Quintero",
+            "phoneNumber" : "+573112562432"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-25T18:14:41.066Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T02:00:00.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-26T23:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.63085574130417,
+            "longitude" : -74.1207259701962
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v565148-01",
+        "externalOrderId" : "JMB-v565148-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 88013,
+            "totalLineItems" : 2,
+            "totalQuantity" : 5,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-26T16:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-26T13:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-26T12:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 901086
+    },
+    "rewardAmount" : "8000",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T21:59:37.412Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "inProgressStatus" : "AT_CASHIER",
+    "splittedFlow" : true
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("6268110a968bb80001cca9f2"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH297365707A7A706C,6268110a968bb80001cca9f2",
+        "batchIndex" : 0,
+        "batchSize" : 1,
+        "totalDeliveryDistance" : 3.385,
+        "totalRewardAmount" : 8000.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T15:34:34.282Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-29T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-26T05:00:00.000Z")
+    },
+    "deliveryDistance" : 3.385,
+    "description" : "JMB-v568594-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v568594-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v568594-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 19 #03-10 , Santafe - LAS NIEVES, Bogotá, D.C., 11001, COL",
+            "name" : "Katherin  Gonzalez ",
+            "phoneNumber" : "+573117105308"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T15:34:34.282Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-26T20:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-26T17:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.60346713681209,
+            "longitude" : -74.0685075550463
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v568594-01",
+        "externalOrderId" : "JMB-v568594-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 24780,
+            "totalLineItems" : 1,
+            "totalQuantity" : 2,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-26T16:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-26T13:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-26T12:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 903607
+    },
+    "rewardAmount" : "8000",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T17:06:02.516Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "inProgressStatus" : "PICKING_STARTED",
+    "splittedFlow" : true
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("62671a57175ef40001bcd153"),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ]
+    },
+    "name" : "JMB-v566136-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "description" : "JMB-v566136-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "type" : "CENCOSUD_SHOPPER",
+    "rewardAmount" : "9698",
+    "duration" : "",
+    "cycle" : {
+        "startDate" : ISODate("2022-04-26T08:00:00.000Z"),
+        "endDate" : ISODate("2022-04-29T04:59:59.999Z")
+    },
+    "brand" : {
+        "_id" : NumberLong(226),
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : NumberLong(5220)
+    },
+    "store" : {
+        "_id" : NumberLong(13817),
+        "name" : "Jumbo Carrera 30",
+        "zubaleId" : NumberLong(12375),
+        "storeNumber" : "swl16",
+        "address" : "Cra 32 17 B 04",
+        "neighborhood" : "Bogota",
+        "city" : "Bogota",
+        "state" : "Cundinamarca",
+        "country" : "CO",
+        "retailer" : {
+            "_id" : NumberLong(228),
+            "name" : "Jumbo",
+            "zubaleId" : NumberLong(5208),
+            "company" : {
+                "_id" : NumberLong(68),
+                "name" : "Cencosud",
+                "zubaleId" : NumberLong(1067)
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png"
+        },
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771"
+    },
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "closed" : false,
+    "status" : "OPEN",
+    "formType" : "ZUBALE",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "allowResubmission" : false,
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "inProgressStatus" : "DELIVERED",
+    "pickingAndDelivery" : {
+        "zubaleOrderId" : NumberLong(901789),
+        "externalOrderId" : "JMB-v566136-01",
+        "externalDeliveryId" : "JMB-v566136-01",
+        "storeArrivalTime" : ISODate("2022-04-26T15:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-26T16:00:00.000Z"),
+        "pickupWindowEndTime" : ISODate("2022-04-26T19:30:00.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-26T20:00:00.000Z"),
+        "deliveryWindowEndTime" : ISODate("2022-04-26T23:00:59.000Z"),
+        "encryptedToken" : "",
+        "deepLinkBaseURL" : "",
+        "dropOffLocation" : {
+            "latitude" : 4.6295758869287,
+            "longitude" : -74.0659234909731
+        },
+        "orderInfo" : {
+            "totalWeight" : "0",
+            "totalVolume" : "0",
+            "totalQuantity" : NumberLong(42),
+            "totalLineItems" : NumberLong(25),
+            "size" : "S"
+        },
+        "allowResubmission" : false,
+        "ignoreDropOffValidation" : false,
+        "customerInfo" : {
+            "address" : "Calle 42 n 8 118, Chapinero - SUCRE, Bogotá, D.C., 11001, COL",
+            "name" : "Geraldine  Bedoya ",
+            "phoneNumber" : "+573204184831"
+        },
+        "paymentInfo" : {
+            "paymentMode" : "Pago online",
+            "paymentStatus" : "",
+            "payOnDeliveryType" : "",
+            "amount" : ""
+        },
+        "checkoutNote" : "JMB-v566136-01",
+        "comment" : "",
+        "orderDetails" : [],
+        "returnStore" : false,
+        "driveToStore" : false,
+        "warrantyFee" : false,
+        "splittedFlow" : false,
+        "quests" : [],
+        "additionalData" : {}
+    },
+    "deliveryDistance" : "4.881",
+    "batching" : {
+        "batched" : true
+    },
+    "profitProcessed" : false,
+    "createdAt" : ISODate("2022-04-25T22:01:59.665Z"),
+    "updatedAt" : ISODate("2022-04-27T01:21:43.172Z"),
+    "_class" : "com.zubale.quest.document.Quest",
+    "splittedFlow" : true
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("62681ea1968bb80001ce6c39"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH792231707A7A706C,62681ea1968bb80001ce6c39",
+        "batchIndex" : 0,
+        "batchSize" : 1,
+        "totalDeliveryDistance" : 3.865,
+        "totalRewardAmount" : 8000.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T16:32:33.455Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-29T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-26T08:00:00.000Z")
+    },
+    "deliveryDistance" : 3.865,
+    "description" : "JMB-v568763-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v568763-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v568763-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 12d bis # 1-18, La Candelaria - LAS AGUAS, Bogotá, D.C., 11001, COL",
+            "name" : "María Paula  Vargas ",
+            "phoneNumber" : "+573043964537"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T16:32:33.455Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-26T23:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-26T20:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.59930915570899,
+            "longitude" : -74.0682003209025
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v568763-01",
+        "externalOrderId" : "JMB-v568763-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 219900,
+            "totalLineItems" : 1,
+            "totalQuantity" : 10,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-26T19:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-26T16:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-26T15:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 903802
+    },
+    "rewardAmount" : "8000",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T22:47:38.376Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "inProgressStatus" : "PICKING_STARTED",
+    "splittedFlow" : true
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("6266f16bd26fe50001e018a2"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH2B2F6270747A706C,62686f82968bb8000112404f,6268aab3d26fe50001d84787,6266f16bd26fe50001e018a2",
+        "batchIndex" : 2,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 16.101,
+        "totalRewardAmount" : 39158.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-25T19:07:23.383Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 3.279,
+    "description" : "JMB-v565340-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v565340-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v565340-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 1 # 70 a 65, Kennedy - HIPOTECHO ET. II, Bogotá, D.C., 11001, COL",
+            "name" : "Carmen b Bustos",
+            "phoneNumber" : "+573156003562"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-25T19:07:23.383Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.62209888286305,
+            "longitude" : -74.1321906867939
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v565340-01",
+        "externalOrderId" : "JMB-v565340-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 192880,
+            "totalLineItems" : 10,
+            "totalQuantity" : 15,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 901245
+    },
+    "rewardAmount" : "13517.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-25T19:07:23.383Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("626701e1d26fe50001f8b9b1"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH7C2A3A76757A706C,626701e1d26fe50001f8b9b1,6268594fd26fe50001752595,62682f8c968bb8000161f2fc",
+        "batchIndex" : 0,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 8.43,
+        "totalRewardAmount" : 29670.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-25T20:17:37.252Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 2.556,
+    "description" : "JMB-v565682-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v565682-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v565682-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "calle 33 # 6B-24 piso 7, Santafe - LA MERCED, Bogotá, D.C., 11001, COL",
+            "name" : "vannesa muñoz",
+            "phoneNumber" : "+573214651938"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-25T20:17:37.253Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.61991490985121,
+            "longitude" : -74.0674735622231
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v565682-01",
+        "externalOrderId" : "JMB-v565682-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 322850,
+            "totalLineItems" : 12,
+            "totalQuantity" : 35,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 901472
+    },
+    "rewardAmount" : "8933.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-25T20:17:37.252Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("62673a65968bb80001a3eca1"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH7D703173757A706C,626757a2968bb800010ac49a,62673a65968bb80001a3eca1,626743d2968bb80001fb379b",
+        "batchIndex" : 1,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 7.483,
+        "totalRewardAmount" : 33250.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T00:18:45.666Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 3.512,
+    "description" : "JMB-v566686-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v566686-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v566686-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Carrera 50 56B-88 apto 711, Teusaquillo - NICOLAS DE FEDERMAN, Bogotá, D.C., 11001, COL",
+            "name" : "William Halaby",
+            "phoneNumber" : "+573115168873"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T00:18:45.666Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.64855790909885,
+            "longitude" : -74.0853837100222
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v566686-01",
+        "externalOrderId" : "JMB-v566686-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 147240,
+            "totalLineItems" : 15,
+            "totalQuantity" : 16.5,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 902201
+    },
+    "rewardAmount" : "11168.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T00:18:45.666Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("62673aeb968bb800011575bb"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH7A7337227A7A706C,62673f66175ef40001bb4e5d,62673aeb968bb800011575bb,6268cdcf175ef4000125a985",
+        "batchIndex" : 1,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 6.803,
+        "totalRewardAmount" : 31600.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T00:20:59.581Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 0.546,
+    "description" : "JMB-v566697-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v566697-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v566697-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Carrera 64#23a-49 Torre 2 Apto 204, Teusaquillo - CR. PUNTA DEL ESTE, Bogotá, D.C., 11001, COL",
+            "name" : "Vanessa Catano Gamboa",
+            "phoneNumber" : "+573144879230"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T00:20:59.581Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.64612801854836,
+            "longitude" : -74.1045190531479
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v566697-01",
+        "externalOrderId" : "JMB-v566697-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 721720,
+            "totalLineItems" : 50,
+            "totalQuantity" : 68,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 902212
+    },
+    "rewardAmount" : "17564.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T00:20:59.581Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("62673f66175ef40001bb4e5d"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH7A7337227A7A706C,62673f66175ef40001bb4e5d,62673aeb968bb800011575bb,6268cdcf175ef4000125a985",
+        "batchIndex" : 0,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 6.803,
+        "totalRewardAmount" : 31600.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T00:40:06.570Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 5.581,
+    "description" : "JMB-v566773-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v566773-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v566773-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "calle 22 B # 60-51 int 4 apto 802, Teusaquillo - CR. PLAZUELA DE TOSCANA, Bogotá, D.C., 11001, COL",
+            "name" : "luz mabel gutierrez peña",
+            "phoneNumber" : "+573168730753"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T00:40:06.570Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.64382557743163,
+            "longitude" : -74.1046737660635
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v566773-01",
+        "externalOrderId" : "JMB-v566773-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 148270,
+            "totalLineItems" : 9,
+            "totalQuantity" : 13,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 902276
+    },
+    "rewardAmount" : "11874.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T00:40:06.570Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("626743d2968bb80001fb379b"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH7D703173757A706C,626757a2968bb800010ac49a,62673a65968bb80001a3eca1,626743d2968bb80001fb379b",
+        "batchIndex" : 2,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 7.483,
+        "totalRewardAmount" : 33250.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T00:58:58.474Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 1.088,
+    "description" : "JMB-v566883-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v566883-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v566883-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Carrera 36 #53A-18 Apto 505, Teusaquillo - NICOLAS DE FEDERMAN, Bogotá, D.C., 11001, COL",
+            "name" : "Javier Augusto Yhama Valero",
+            "phoneNumber" : "+573176367471"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T00:58:58.474Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.64398037370905,
+            "longitude" : -74.0806685877699
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v566883-01",
+        "externalOrderId" : "JMB-v566883-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 430060,
+            "totalLineItems" : 37,
+            "totalQuantity" : 40,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 902333
+    },
+    "rewardAmount" : "14082.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T00:58:58.474Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("626757a2968bb800010ac49a"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH7D703173757A706C,626757a2968bb800010ac49a,62673a65968bb80001a3eca1,626743d2968bb80001fb379b",
+        "batchIndex" : 0,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 7.483,
+        "totalRewardAmount" : 33250.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T02:23:30.532Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 3.953,
+    "description" : "JMB-v567340-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v567340-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v567340-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Cra 28a 49a 73 apto 201, Teusaquillo - BELALCAZAR, Bogotá, D.C., 11001, COL",
+            "name" : "Natali Baez Cortes ",
+            "phoneNumber" : "+573112834790"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T02:23:30.532Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.63985888049349,
+            "longitude" : -74.0784181919814
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v567340-01",
+        "externalOrderId" : "JMB-v567340-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 47474,
+            "totalLineItems" : 7,
+            "totalQuantity" : 5.55,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 902571
+    },
+    "rewardAmount" : "8000.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T02:23:30.532Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("62682f8c968bb8000161f2fc"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH7C2A3A76757A706C,626701e1d26fe50001f8b9b1,6268594fd26fe50001752595,62682f8c968bb8000161f2fc",
+        "batchIndex" : 2,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 8.43,
+        "totalRewardAmount" : 29670.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T17:44:44.813Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 5.18,
+    "description" : "JMB-v569002-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v569002-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v569002-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "calle 40 24-14 apto 402, Teusaquillo - LA SOLEDAD, Bogotá, D.C., 11001, COL",
+            "name" : "Adriana Martinez",
+            "phoneNumber" : "+573175110788"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T17:44:44.813Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.63039914371541,
+            "longitude" : -74.0754468256129
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v569002-01",
+        "externalOrderId" : "JMB-v569002-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 648573,
+            "totalLineItems" : 41,
+            "totalQuantity" : 45.21,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 904057
+    },
+    "rewardAmount" : "11717.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T17:44:44.813Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("62683fce175ef4000133722a"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH79763E287A7A706C,6268b4ecd26fe5000187f9b3,62683fce175ef4000133722a,62688837968bb80001ff2536",
+        "batchIndex" : 1,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 11.082,
+        "totalRewardAmount" : 21387.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T18:54:06.690Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 0.399,
+    "description" : "JMB-v569186-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v569186-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v569186-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Transversal 3 # 55 - 10 Apto 302. Edificio Alexandra., Chapinero - BOSQUE CALDERON, Bogotá, D.C., 11001, COL",
+            "name" : "Sandra Jaimes",
+            "phoneNumber" : "+573002039685"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T18:54:06.690Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.64027134547705,
+            "longitude" : -74.0595942220629
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v569186-01",
+        "externalOrderId" : "JMB-v569186-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 272190,
+            "totalLineItems" : 21,
+            "totalQuantity" : 29,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 904294
+    },
+    "rewardAmount" : "10589.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T18:54:06.690Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("62684842968bb80001f3d39c"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH767B3A207A7A706C,62684842968bb80001f3d39c,62686484175ef4000143f456,6268cb48968bb8000136c6ee",
+        "batchIndex" : 0,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 10.263,
+        "totalRewardAmount" : 19650.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T19:30:10.094Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 4.435,
+    "description" : "JMB-v569291-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v569291-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v569291-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 8 sur No. 31 A 68 piso 2, Puente Aranda - SANTA MATILDE, Bogotá, D.C., 11001, COL",
+            "name" : "Carolina Gonzalez",
+            "phoneNumber" : "+573002220865"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T19:30:10.094Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.59925994738832,
+            "longitude" : -74.1077847969041
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v569291-01",
+        "externalOrderId" : "JMB-v569291-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 268030,
+            "totalLineItems" : 26,
+            "totalQuantity" : 27,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 904412
+    },
+    "rewardAmount" : "9986.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T19:30:10.094Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("6268594fd26fe50001752595"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH7C2A3A76757A706C,626701e1d26fe50001f8b9b1,6268594fd26fe50001752595,62682f8c968bb8000161f2fc",
+        "batchIndex" : 1,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 8.43,
+        "totalRewardAmount" : 29670.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T20:42:55.738Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 2.2,
+    "description" : "JMB-v569480-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v569480-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v569480-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "calle 41a #8-25 apto 1210, Chapinero - SUCRE, Bogotá, D.C., 11001, COL",
+            "name" : "carolina santamaria jaramillo",
+            "phoneNumber" : "+573507420984"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T20:42:55.738Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.62932254483749,
+            "longitude" : -74.0659503010826
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v569480-01",
+        "externalOrderId" : "JMB-v569480-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 238980,
+            "totalLineItems" : 18,
+            "totalQuantity" : 28.8,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 904617
+    },
+    "rewardAmount" : "9020.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T20:42:55.738Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("62686484175ef4000143f456"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH767B3A207A7A706C,62684842968bb80001f3d39c,62686484175ef4000143f456,6268cb48968bb8000136c6ee",
+        "batchIndex" : 1,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 10.263,
+        "totalRewardAmount" : 19650.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T21:30:44.941Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 3.865,
+    "description" : "JMB-v569618-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v569618-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v569618-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "carrera 56 a # 4g-05, Puente Aranda - SAN GABRIEL, Bogotá, D.C., 11001, COL",
+            "name" : "CARLOS HERNAN MORA MOLANO",
+            "phoneNumber" : "+573134187311"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T21:30:44.941Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.62379915948333,
+            "longitude" : -74.1166571550393
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v569618-01",
+        "externalOrderId" : "JMB-v569618-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 27900,
+            "totalLineItems" : 1,
+            "totalQuantity" : 10,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 904742
+    },
+    "rewardAmount" : "8000.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T21:30:44.941Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("62686f82968bb8000112404f"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH2B2F6270747A706C,62686f82968bb8000112404f,6268aab3d26fe50001d84787,6266f16bd26fe50001e018a2",
+        "batchIndex" : 0,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 16.101,
+        "totalRewardAmount" : 39158.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T22:17:38.895Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 10.649,
+    "description" : "JMB-v569781-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v569781-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v569781-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 45 sur # 72i -43, Kennedy - BOITA ET. I, Bogotá, D.C., 11001, COL",
+            "name" : " Paola Rodriguez",
+            "phoneNumber" : "+573144793244"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T22:17:38.895Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.60291023117161,
+            "longitude" : -74.1501068765724
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v569781-01",
+        "externalOrderId" : "JMB-v569781-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 54221,
+            "totalLineItems" : 10,
+            "totalQuantity" : 14.0,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 904876
+    },
+    "rewardAmount" : "12558.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T22:17:38.895Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("62688837968bb80001ff2536"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH79763E287A7A706C,6268b4ecd26fe5000187f9b3,62683fce175ef4000133722a,62688837968bb80001ff2536",
+        "batchIndex" : 2,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 11.082,
+        "totalRewardAmount" : 21387.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T00:03:03.778Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 2.179,
+    "description" : "JMB-v570073-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v570073-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v570073-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "calle51#19-50, Teusaquillo - ALFONSO LOPEZ, Bogotá, D.C., 11001, COL",
+            "name" : "Diana  Guayacundo",
+            "phoneNumber" : "+573103144224"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T00:03:03.778Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.63933914774121,
+            "longitude" : -74.0714872348838
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v570073-01",
+        "externalOrderId" : "JMB-v570073-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 274740,
+            "totalLineItems" : 17,
+            "totalQuantity" : 19,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905149
+    },
+    "rewardAmount" : "8387.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T00:03:03.778Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("6268aab3d26fe50001d84787"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH2B2F6270747A706C,62686f82968bb8000112404f,6268aab3d26fe50001d84787,6266f16bd26fe50001e018a2",
+        "batchIndex" : 1,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 16.101,
+        "totalRewardAmount" : 39158.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T02:30:11.385Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 2.173,
+    "description" : "JMB-v570838-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 1
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v570838-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v570838-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 39 Sur # 73 11, Kennedy - UB. CIUDAD KENNEDY SUR, Bogotá, D.C., 11001, COL",
+            "name" : "LILIANA VALENCIA",
+            "phoneNumber" : "+573143340168"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T02:30:11.385Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.61506097556186,
+            "longitude" : -74.1498005879433
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v570838-01",
+        "externalOrderId" : "JMB-v570838-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 266910,
+            "totalLineItems" : 14,
+            "totalQuantity" : 19,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905500
+    },
+    "rewardAmount" : "13083.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T02:30:11.385Z"),
+    "userTypes" : [ 
+        79, 
+        99
+    ]
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("6268b4ecd26fe5000187f9b3"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH79763E287A7A706C,6268b4ecd26fe5000187f9b3,62683fce175ef4000133722a,62688837968bb80001ff2536",
+        "batchIndex" : 0,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 11.082,
+        "totalRewardAmount" : 21387.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T03:13:48.943Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 8.504,
+    "description" : "JMB-v571180-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v571180-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v571180-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "carrera 3 # 59-65 apto 501, Chapinero - LA SALLE, Bogotá, D.C., 11001, COL",
+            "name" : "Maria Peñaranda",
+            "phoneNumber" : "+573214915865"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T03:13:48.943Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.64325394912622,
+            "longitude" : -74.057890958495
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v571180-01",
+        "externalOrderId" : "JMB-v571180-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 238960,
+            "totalLineItems" : 17,
+            "totalQuantity" : 23,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : true,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905609
+    },
+    "rewardAmount" : "2411.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T03:13:48.943Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ]
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("6268c7f4d26fe500010ec63c"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH7C2563227A7A706C,6268c7f4d26fe500010ec63c",
+        "batchIndex" : 0,
+        "batchSize" : 1,
+        "totalDeliveryDistance" : 1.807,
+        "totalRewardAmount" : 1913.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T04:35:00.986Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 1.807,
+    "description" : "JMB-v571703-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v571703-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v571703-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "CL 22A 18B 13, Los Martires - SANTA FE, Bogotá, D.C., 11001, COL",
+            "name" : "DIEGO CHACON",
+            "phoneNumber" : "+573164637216"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T04:35:00.986Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.61496082592109,
+            "longitude" : -74.0794639414658
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v571703-01",
+        "externalOrderId" : "JMB-v571703-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 84980,
+            "totalLineItems" : 11,
+            "totalQuantity" : 12,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : true,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905805
+    },
+    "rewardAmount" : "1913.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T04:35:00.986Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ]
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("6268cb48968bb8000136c6ee"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH767B3A207A7A706C,62684842968bb80001f3d39c,62686484175ef4000143f456,6268cb48968bb8000136c6ee",
+        "batchIndex" : 2,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 10.263,
+        "totalRewardAmount" : 19650.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T04:49:12.192Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 1.963,
+    "description" : "JMB-v571784-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v571784-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v571784-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Cra 67 #9a-80, Puente Aranda - SALAZAR GOMEZ, Bogotá, D.C., 11001, COL",
+            "name" : "Walter Meza",
+            "phoneNumber" : "+573115035172"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T04:49:12.193Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.63161479339532,
+            "longitude" : -74.1200959591307
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v571784-01",
+        "externalOrderId" : "JMB-v571784-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 325710,
+            "totalLineItems" : 8,
+            "totalQuantity" : 29,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : true,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905827
+    },
+    "rewardAmount" : "1664.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T04:49:12.192Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ]
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("6268cdcf175ef4000125a985"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH7A7337227A7A706C,62673f66175ef40001bb4e5d,62673aeb968bb800011575bb,6268cdcf175ef4000125a985",
+        "batchIndex" : 2,
+        "batchSize" : 3,
+        "totalDeliveryDistance" : 6.803,
+        "totalRewardAmount" : 31600.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T04:59:59.629Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T02:00:00.000Z")
+    },
+    "deliveryDistance" : 0.676,
+    "description" : "JMB-v571847-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v571847-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v571847-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 24 A No 57 -69, Teusaquillo - CIUDAD SALITRE NOR-ORIENTAL, Bogotá, D.C., 11001, COL",
+            "name" : "Claudia Patricia Mejia  Reita",
+            "phoneNumber" : "+573176491054"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T04:59:59.629Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.64399429908903,
+            "longitude" : -74.1005639628678
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v571847-01",
+        "externalOrderId" : "JMB-v571847-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 288140,
+            "totalLineItems" : 14,
+            "totalQuantity" : 17,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T10:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : true,
+        "storeArrivalTime" : ISODate("2022-04-27T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905855
+    },
+    "rewardAmount" : "2162.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T04:59:59.629Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ]
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("6268601a175ef400011a126d"),
+    "batching" : {
+        "batched" : true,
+        "batchId" : "BTCH297264777A7A706C,6268601a175ef400011a126d",
+        "batchIndex" : 0,
+        "batchSize" : 1,
+        "totalDeliveryDistance" : 3.597,
+        "totalRewardAmount" : 8000.0
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T21:11:54.299Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T05:00:00.000Z")
+    },
+    "deliveryDistance" : 3.597,
+    "description" : "JMB-v569568-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v569568-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v569568-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 24c #40-18, Teusaquillo - QUINTA PAREDES, Bogotá, D.C., 11001, COL",
+            "name" : "Esteban Díaz",
+            "phoneNumber" : "+573013499976"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T21:11:54.299Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T20:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T17:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.63219955927963,
+            "longitude" : -74.0911965359493
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v569568-01",
+        "externalOrderId" : "JMB-v569568-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 279480,
+            "totalLineItems" : 5,
+            "totalQuantity" : 12,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T16:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T13:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T12:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 904678
+    },
+    "rewardAmount" : "8000.0",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T21:11:54.299Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "splittedFlow" : true
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("6267567c968bb8000164c705"),
+    "batching" : {
+        "batched" : true
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T02:18:36.622Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T08:00:00.000Z")
+    },
+    "deliveryDistance" : 10.851,
+    "description" : "JMB-v567317-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v567317-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v567317-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Cra 73 40 31 sur, Kennedy - UB. TIMIZA CELULA B, Bogotá, D.C., 11001, COL",
+            "name" : "Vanessa Ortiz",
+            "phoneNumber" : "+573123904367"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T02:18:36.622Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T23:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T20:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.6136482616582,
+            "longitude" : -74.1513948251412
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v567317-01",
+        "externalOrderId" : "JMB-v567317-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 123960,
+            "totalLineItems" : 1,
+            "totalQuantity" : 4,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T19:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T16:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T15:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 902550
+    },
+    "rewardAmount" : "11472",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T02:18:36.622Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "splittedFlow" : true
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("6268bde9175ef40001f31ca8"),
+    "batching" : {
+        "batched" : true
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T03:52:09.600Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T08:00:00.000Z")
+    },
+    "deliveryDistance" : 7.165,
+    "description" : "JMB-v571443-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v571443-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v571443-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "carrera 40 # 36-23 sur , Puente Aranda - AUTOPISTA MUZU, Bogotá, D.C., 11001, COL",
+            "name" : "ernesto Tuta",
+            "phoneNumber" : "+573222809706"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T03:52:09.600Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-27T23:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T20:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.59666766139922,
+            "longitude" : -74.1237239420315
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v571443-01",
+        "externalOrderId" : "JMB-v571443-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 132980,
+            "totalLineItems" : 11,
+            "totalQuantity" : 12,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T19:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T16:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : true,
+        "storeArrivalTime" : ISODate("2022-04-27T15:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905696
+    },
+    "rewardAmount" : "1913",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T03:52:09.600Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ]
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("626841fdd26fe500012a3fbc"),
+    "batching" : {
+        "batched" : true
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T19:03:25.289Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T11:00:00.000Z")
+    },
+    "deliveryDistance" : 6.006,
+    "description" : "JMB-v569220-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v569220-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v569220-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 59 # 37 - 49 Apto 401, Teusaquillo - NICOLAS DE FEDERMAN, Bogotá, D.C., 11001, COL",
+            "name" : "Ricardo Trujillo Vargas",
+            "phoneNumber" : "+573187074171"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T19:03:25.289Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-28T02:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T23:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.65009630754933,
+            "longitude" : -74.0818298102018
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v569220-01",
+        "externalOrderId" : "JMB-v569220-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 115280,
+            "totalLineItems" : 3,
+            "totalQuantity" : 4,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T22:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T19:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-27T18:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 904331
+    },
+    "rewardAmount" : "8000",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T19:03:25.289Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "splittedFlow" : true
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("6268b3e6175ef4000158c17a"),
+    "batching" : {
+        "batched" : true
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T03:09:26.490Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T11:00:00.000Z")
+    },
+    "deliveryDistance" : 7.282,
+    "description" : "JMB-v571160-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v571160-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v571160-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 59 # 58-17, Teusaquillo - PAULO VI, Bogotá, D.C., 11001, COL",
+            "name" : "Marlene Aldana Wilches",
+            "phoneNumber" : "+573108626259"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T03:09:26.490Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-28T02:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T23:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.65393123913809,
+            "longitude" : -74.0885804074925
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v571160-01",
+        "externalOrderId" : "JMB-v571160-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 180080,
+            "totalLineItems" : 6,
+            "totalQuantity" : 12,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T22:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T19:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : true,
+        "storeArrivalTime" : ISODate("2022-04-27T18:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905601
+    },
+    "rewardAmount" : "9103",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T03:09:26.490Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "splittedFlow" : true
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("6268c3e3175ef400017c63a3"),
+    "batching" : {
+        "batched" : true
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T04:17:39.581Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-04-30T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-27T11:00:00.000Z")
+    },
+    "deliveryDistance" : 6.012,
+    "description" : "JMB-v571609-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v571609-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v571609-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Transv 35 bis 27 a-16sur, Puente Aranda - AUTOPISTA MUZU 0RIENTAL, Bogotá, D.C., 11001, COL",
+            "name" : "Marbel Rojas",
+            "phoneNumber" : "+573207476239"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T04:17:39.581Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-28T02:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-27T23:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.59628453729713,
+            "longitude" : -74.1152203944958
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v571609-01",
+        "externalOrderId" : "JMB-v571609-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 149320,
+            "totalLineItems" : 18,
+            "totalQuantity" : 18,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-27T22:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-27T19:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : true,
+        "storeArrivalTime" : ISODate("2022-04-27T18:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905767
+    },
+    "rewardAmount" : "2494",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T04:17:39.581Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ]
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("6266f025175ef4000141a1bb"),
+    "batching" : {
+        "batched" : true
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-25T19:01:57.989Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-05-01T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-28T02:00:00.000Z")
+    },
+    "deliveryDistance" : 4.987,
+    "description" : "JMB-v565306-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v565306-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v565306-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "cra 13 N. 40c-20, Chapinero - SUCRE, Bogotá, D.C., 11001, COL",
+            "name" : "sonia ortiz ruiz",
+            "phoneNumber" : "+573106997127"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-25T19:01:57.989Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-28T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-28T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.62870633049576,
+            "longitude" : -74.0669238582233
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v565306-01",
+        "externalOrderId" : "JMB-v565306-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 229900,
+            "totalLineItems" : 1,
+            "totalQuantity" : 1,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-28T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-28T10:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-28T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 901223
+    },
+    "rewardAmount" : "8000",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-25T19:01:57.989Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "splittedFlow" : true
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("6268a560175ef400018a3cef"),
+    "batching" : {
+        "batched" : true
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T02:07:28.970Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-05-01T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-28T02:00:00.000Z")
+    },
+    "deliveryDistance" : 1.802,
+    "description" : "JMB-v570699-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v570699-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v570699-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 13 #21-77, Los Martires - LA SABANA, Bogotá, D.C., 11001, COL",
+            "name" : "Javier Gregorio Guevara Peña",
+            "phoneNumber" : "+573112559307"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T02:07:28.970Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-28T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-28T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.6094449532622,
+            "longitude" : -74.0867937220922
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v570699-01",
+        "externalOrderId" : "JMB-v570699-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 137014,
+            "totalLineItems" : 12,
+            "totalQuantity" : 16,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-28T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-28T10:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-28T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905435
+    },
+    "rewardAmount" : "8000",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T02:07:28.970Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "splittedFlow" : true
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("6267d72e968bb80001a1bcee"),
+    "batching" : {
+        "batched" : true
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-26T11:27:42.836Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-05-01T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-28T08:00:00.000Z")
+    },
+    "deliveryDistance" : 4.796,
+    "description" : "JMB-v568241-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v568241-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v568241-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Cr.5 #6B-50 Ap.615, La Candelaria - MULTIFAMILIAR EL RINCON, Bogotá, D.C., 11001, COL",
+            "name" : "Cristian Camilo Tolosa Salazar",
+            "phoneNumber" : "+573505394249"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-26T11:27:42.836Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-28T23:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-28T20:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.59162030352723,
+            "longitude" : -74.0764759037011
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v568241-01",
+        "externalOrderId" : "JMB-v568241-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 865440,
+            "totalLineItems" : 6,
+            "totalQuantity" : 56,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-28T19:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-28T16:00:00.000Z"),
+        "quests" : [],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-28T15:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 903154
+    },
+    "rewardAmount" : "8000",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-26T11:27:42.836Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "splittedFlow" : true
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("6268aa90d26fe500019fc77f"),
+    "batching" : {
+        "batched" : true
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T02:29:36.297Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-05-02T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-29T02:00:00.000Z")
+    },
+    "deliveryDistance" : 6.549,
+    "description" : "JMB-v570849-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v570849-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v570849-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle 56 #57A - 14 Bloq 69 Apto 401, Teusaquillo - PAULO VI, Bogotá, D.C., 11001, COL",
+            "name" : "Sandra Rubio",
+            "phoneNumber" : "+573014611799"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T02:29:36.297Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-29T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-29T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.65111849239942,
+            "longitude" : -74.0902634070131
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v570849-01",
+        "externalOrderId" : "JMB-v570849-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 263580,
+            "totalLineItems" : 22,
+            "totalQuantity" : 32,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "",
+            "paymentMode" : "Pago online",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-29T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-29T10:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-29T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905497
+    },
+    "rewardAmount" : "10712",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T02:29:36.297Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "splittedFlow" : true
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("6268affe175ef4000175235f"),
+    "batching" : {
+        "batched" : true
+    },
+    "brand" : {
+        "_id" : 226,
+        "logoUrl" : null,
+        "name" : "Cencosud Shoppers",
+        "zubaleId" : 5220
+    },
+    "cartaPorte" : false,
+    "closed" : false,
+    "country" : {
+        "code" : "CO",
+        "currencyCode" : "COP",
+        "currencySymbol" : "$",
+        "name" : "Colombia"
+    },
+    "createdAt" : ISODate("2022-04-27T02:52:46.927Z"),
+    "cycle" : {
+        "endDate" : ISODate("2022-05-02T04:59:59.999Z"),
+        "startDate" : ISODate("2022-04-29T02:00:00.000Z")
+    },
+    "deliveryDistance" : 7.486,
+    "description" : "JMB-v571035-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "duration" : "",
+    "formInfo" : {
+        "formId" : 2
+    },
+    "formType" : "ZUBALE",
+    "location" : {
+        "coordinates" : [ 
+            -74.090631, 
+            4.617577
+        ],
+        "type" : "Point"
+    },
+    "name" : "JMB-v571035-01 - Inventario de la marca Cencosud Shoppers en Jumbo-Jumbo Carrera 30",
+    "pickingAndDelivery" : {
+        "additionalData" : {},
+        "allowResubmission" : false,
+        "checkoutNote" : "JMB-v571035-01",
+        "comment" : "",
+        "customerInfo" : {
+            "address" : "Calle2c#62-06, Puente Aranda - GALAN, Bogotá, D.C., 11001, COL",
+            "name" : "Rocío del Carmen  Martínez cardona",
+            "phoneNumber" : "+573229120590"
+        },
+        "deepLinkBaseURL" : "",
+        "deliveryTime" : ISODate("2022-04-27T02:52:46.927Z"),
+        "deliveryType" : null,
+        "deliveryWindowEndTime" : ISODate("2022-04-29T17:00:59.000Z"),
+        "deliveryWindowStartTime" : ISODate("2022-04-29T14:00:00.000Z"),
+        "driveToStore" : false,
+        "dropOffLocation" : {
+            "latitude" : 4.62074891420317,
+            "longitude" : -74.1223272961355
+        },
+        "encryptedToken" : "",
+        "externalDeliveryId" : "JMB-v571035-01",
+        "externalOrderId" : "JMB-v571035-01",
+        "ignoreDropOffValidation" : false,
+        "orderDetails" : [],
+        "orderInfo" : {
+            "size" : "S",
+            "totalAmount" : 346420,
+            "totalLineItems" : 3,
+            "totalQuantity" : 18,
+            "totalVolume" : 0,
+            "totalWeight" : 0
+        },
+        "paymentInfo" : {
+            "amount" : "",
+            "payOnDeliveryType" : "CASH",
+            "paymentMode" : "Pago contraentrega",
+            "paymentStatus" : ""
+        },
+        "pickupWindowEndTime" : ISODate("2022-04-29T13:30:00.000Z"),
+        "pickupWindowStartTime" : ISODate("2022-04-29T10:00:00.000Z"),
+        "quests" : [ 
+            null
+        ],
+        "returnStore" : false,
+        "reverseGeolocation" : null,
+        "splittedFlow" : false,
+        "storeArrivalTime" : ISODate("2022-04-29T09:30:00.000Z"),
+        "warrantyFee" : false,
+        "zubaleOrderId" : 905553
+    },
+    "rewardAmount" : "8858",
+    "status" : "OPEN",
+    "store" : {
+        "_id" : 13817,
+        "address" : "Cra 32 17 B 04",
+        "city" : "Bogota",
+        "clusterId" : null,
+        "country" : "CO",
+        "mapUrl" : "https://www.google.es/maps/place/Jumbo+Carrera+30/@4.617374,-74.0927658,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f996517b3c717:0x450563eea52a95b9!8m2!3d4.617374!4d-74.0905771",
+        "name" : "Jumbo Carrera 30",
+        "neighborhood" : "Bogota",
+        "phone" : null,
+        "retailer" : {
+            "_id" : 228,
+            "company" : {
+                "_id" : 68,
+                "name" : "Cencosud",
+                "zubaleId" : 1067
+            },
+            "logoUrl" : "https://zubale-zombie.s3.amazonaws.com/static-files/dev/logos/retailer/JUMBO.png",
+            "name" : "Jumbo",
+            "zubaleId" : 5208
+        },
+        "state" : "Cundinamarca",
+        "storeNumber" : "swl16",
+        "zip" : null,
+        "zubaleId" : 12375
+    },
+    "timeEstimation" : null,
+    "type" : "CENCOSUD_SHOPPER",
+    "updatedAt" : ISODate("2022-04-27T02:52:46.927Z"),
+    "userTypes" : [ 
+        122, 
+        124
+    ],
+    "splittedFlow" : true
+}
